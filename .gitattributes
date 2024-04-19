@@ -1,3 +1,4 @@
 Build/OnlineSpringSpatialTem.data filter=lfs diff=lfs merge=lfs -text
 Build/OnlineSpringSpatialTem.data.gz filter=lfs diff=lfs merge=lfs -text
 Build/OnlineNavigationTask.data filter=lfs diff=lfs merge=lfs -text
+Build/OnlineNavigation.data filter=lfs diff=lfs merge=lfs -text
